@@ -1,0 +1,72 @@
+[
+    {
+        "Container": "raw-data-for-sql-database",
+        "FilePath": "HospitalA",
+        "FileName": "departments.csv",
+        "DatabaseName": "azure-prj-hospital-a",
+        "TableName": "Departments"
+    },
+    {
+        "Container": "raw-data-for-sql-database",
+        "FilePath": "HospitalA",
+        "FileName": "providers.csv",
+        "DatabaseName": "azure-prj-hospital-a",
+        "TableName": "Providers"
+    },
+    {
+        "Container": "raw-data-for-sql-database",
+        "FilePath": "HospitalA",
+        "FileName": "encounters.csv",
+        "DatabaseName": "azure-prj-hospital-a",
+        "TableName": "Encounters"
+    },
+    {
+        "Container": "raw-data-for-sql-database",
+        "FilePath": "HospitalA",
+        "FileName": "patients.csv",
+        "DatabaseName": "azure-prj-hospital-a",
+        "TableName": "Patients"
+    },
+    {
+        "Container": "raw-data-for-sql-database",
+        "FilePath": "HospitalA",
+        "FileName": "transactions.csv",
+        "DatabaseName": "azure-prj-hospital-a",
+        "TableName": "Transactions"
+    },
+    {
+        "Container": "raw-data-for-sql-database",
+        "FilePath": "HospitalB",
+        "FileName": "departments.csv",
+        "DatabaseName": "azure-prj-hospital-b",
+        "TableName": "Departments"
+    },
+    {
+        "Container": "raw-data-for-sql-database",
+        "FilePath": "HospitalB",
+        "FileName": "providers.csv",
+        "DatabaseName": "azure-prj-hospital-b",
+        "TableName": "Providers"
+    },
+    {
+        "Container": "raw-data-for-sql-database",
+        "FilePath": "HospitalB",
+        "FileName": "encounters.csv",
+        "DatabaseName": "azure-prj-hospital-b",
+        "TableName": "Encounters"
+    },
+    {
+        "Container": "raw-data-for-sql-database",
+        "FilePath": "HospitalB",
+        "FileName": "patients.csv",
+        "DatabaseName": "azure-prj-hospital-b",
+        "TableName": "Patients"
+    },
+    {
+        "Container": "raw-data-for-sql-database",
+        "FilePath": "HospitalB",
+        "FileName": "transactions.csv",
+        "DatabaseName": "azure-prj-hospital-b",
+        "TableName": "Transactions"
+    }
+]
